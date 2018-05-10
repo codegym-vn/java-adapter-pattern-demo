@@ -1,0 +1,1 @@
+Simple Adapter Pattern demo used at [CodeGym](https://codegym.vn)
